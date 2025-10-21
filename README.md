@@ -16,8 +16,8 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 python-lessons/
 │
-├── lesson01_hello_world.py
-├── lesson02_sum_numbers.py
-├── lesson03_user_data.py
-├── lesson04_birth_date.py
-└── README.md
+├── Born.py # Program that shows the birth date
+├── NameAgeWeight.py # Program that asks for name, age and weight
+├── SimpleAccount.py # Simple account example
+├── Welcome.py # Welcome message
+└── README.md # Repository description
