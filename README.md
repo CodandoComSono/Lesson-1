@@ -16,6 +16,7 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **String Properties Checker.py** | Program that analyzes the user's input and shows its string properties |
 |  **Born.py** | Program that shows the birth date |
 |  **NameAgeWeight.py** | Program that asks for name, age and weight |
 |  **SimpleAccount.py** | Simple account example |
