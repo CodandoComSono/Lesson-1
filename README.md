@@ -16,6 +16,7 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Average_Grade.py** | A program that asks for two grades and calculates the student's average. |
 |  **Number_Operations.py** | A program that takes a number and calculates its double, triple, and square root. |
 |  **Predecessor_Successor.py** | Program that shows the predecessor and successor of a given number |
 |  **String Properties Checker.py** | Program that analyzes the user's input and shows its string properties |
