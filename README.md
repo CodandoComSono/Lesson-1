@@ -16,9 +16,10 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Wall_Paint_Calculator.py** | Program that calculates the wall area and the amount of paint needed. |
 |  **Metric_Length_Transformer.py** | Program that converts meters to centimeters and millimeters. |
 |  **Average_Grade.py** | A program that asks for two grades and calculates the student's average. |
-|  **Number_Operations.py** | A program that takes a number and calculates its double, triple, and square root. |
+|  **Number_Operations.py** | Calculates a number’s double, triple, and square root. |
 |  **Predecessor_Successor.py** | Program that shows the predecessor and successor of a given number |
 |  **String Properties Checker.py** | Program that analyzes the user's input and shows its string properties |
 |  **Born.py** | Program that shows the birth date |
