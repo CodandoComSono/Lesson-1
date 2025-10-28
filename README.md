@@ -16,6 +16,7 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **CurrencyConverter.py** | Converts Brazilian reais to USD, EUR, and CLP. |
 |  **Wall_Paint_Calculator.py** | Program that calculates the wall area and the amount of paint needed. |
 |  **Metric_Length_Transformer.py** | Program that converts meters to centimeters and millimeters. |
 |  **Average_Grade.py** | A program that asks for two grades and calculates the student's average. |
