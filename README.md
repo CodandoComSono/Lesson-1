@@ -16,6 +16,7 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Salary_Increase.py** | Calculates a 15% salary increase and displays the new salary. |
 |  **Car_Rental_Calculator.py** | Calculates the total cost of renting a car based on days and kilometers driven. |
 |  **Celsius_To_Fahrenheit.py** | Converts a temperature from Celsius to Fahrenheit. |
 |  **DiscountCalculator.py** | Calculates the final price of a product after applying a 5% discount. |
