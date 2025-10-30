@@ -16,6 +16,12 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Trigonometry_Calculator.py** | Calculates and displays the sine, cosine, and tangent of a given angle in degrees. |
+|  **Integer_Part_of_Square_Root.py** | Calculates the square root of a number and displays its integer part. |
+|  **Play_Music.py** | Plays an MP3 file using Pygame and waits until it finishes. |
+|  **Random_Group_Draw.py** | Randomly shuffles a list of groups and displays the order they were drawn.. |
+|  **Random_Name_Selector.py** | Randomly selects a name from a list and displays it.. |
+|  **Hypotenuse_Calculator.py** | Calculates the hypotenuse of a right triangle given the lengths of the two legs. |
 |  **Multiplication_Table.py** | Program that displays the multiplication table of a given number. |
 |  **Salary_Increase.py** | Calculates a 15% salary increase and displays the new salary. |
 |  **Car_Rental_Calculator.py** | Calculates the total cost of renting a car based on days and kilometers driven. |
