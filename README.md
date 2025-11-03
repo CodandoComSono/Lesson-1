@@ -16,6 +16,14 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+
+|  **Name_Title_Replace** | Program That Replaces "Junior" With "Senior" In A Given Name. |
+|  **Name_Silva_Checker** | Program That Checks If A Person’s Name Contains The Word “Silva”. |
+|  **City_Name_Checker.py** | Program That Checks If A City Name Starts With The Word “Santo”. |
+|  **Combined_Number_Analyzer.py** | Program That Analyzes A Number Mathematically And By Digit Position. |
+|  **First_And_Last_Name.py** | Program That Extracts The First And Last Names From A Full Name. |
+|  **Letter_A_Analyzer** | Program That Analyzes A Phrase And Shows Information About The Letter “A”. |
+|  **Name_Analyzer** | Program That Analyzes A Full Name And Displays Information About It. |
 |  **Trigonometry_Calculator.py** | Calculates and displays the sine, cosine, and tangent of a given angle in degrees. |
 |  **Integer_Part_of_Square_Root.py** | Calculates the square root of a number and displays its integer part. |
 |  **Play_Music.py** | Plays an MP3 file using Pygame and waits until it finishes. |
