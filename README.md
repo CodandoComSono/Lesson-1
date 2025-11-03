@@ -16,7 +16,6 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
-
 |  **Name_Title_Replace** | Program That Replaces "Junior" With "Senior" In A Given Name. |
 |  **Name_Silva_Checker** | Program That Checks If A Person’s Name Contains The Word “Silva”. |
 |  **City_Name_Checker.py** | Program That Checks If A City Name Starts With The Word “Santo”. |
