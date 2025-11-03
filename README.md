@@ -16,6 +16,14 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Even_Odd_Checker** | Program that checks if a number is even or odd. |
+|  **Find_Max_Min_Numbers** | Program that determines the largest and smallest numbers among three inputs. |
+|  **Guess_the_Number_Game** | Program that runs a guessing game for a number between 0 and 5. |
+|  **Leap_Year_Checker** | Program that checks if a given year is a leap year. |
+|  **Salary_Adjustment_Calculator** | Program that calculates a salary increase based on the current salary. |
+|  **Speed_Limit_Checker** | Program that checks the vehicle's speed and calculates a fine if it exceeds the limit. |
+|  **Travel_Cost_Calculator** | Program that calculates the cost of a trip based on the distance traveled. |
+|  **Triangle_Checker** | Program that checks if three line segments can form a triangle. |
 |  **Name_Title_Replace** | Program That Replaces "Junior" With "Senior" In A Given Name. |
 |  **Name_Silva_Checker** | Program That Checks If A Person’s Name Contains The Word “Silva”. |
 |  **City_Name_Checker.py** | Program That Checks If A City Name Starts With The Word “Santo”. |
