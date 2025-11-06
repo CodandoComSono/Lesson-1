@@ -16,6 +16,17 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Category_Classifier.py** | Classifies the user’s category based on their age. |
+|  **Home_Financing_Tool.py** | Program that simulates a home loan approval. |
+|  **IMC_Evaluator.py** | Calculates IMC and classifies the user’s health status. |
+|  **Name_Greeting.py** | Program that greets the user with a personalized message. |
+|  **Number_Base_Converter.py** | Converts a decimal number to binary, octal, or hexadecimal. |
+|  **Number_Comparator.py** | Compares two numbers and shows which one is greater or if they are equal. |
+|  **Rock_Paper_Scissors_Game.py** | Program that simulates the Rock, Paper, Scissors game. |
+|  **Store_Payment_Calculator.py** | Calculates product price by payment option. |
+|  **Student_Grade_Checker.py** | Calculates a student’s average grade and displays their final status. |
+|  **Triangle_Analyzer.py** | Checks if three segments form a triangle and identifies its type. |
+|  **Military_Enlistment_Check.py** | Program that calculates military enlistment eligibility. |
 |  **Even_Odd_Checker** | Program that checks if a number is even or odd. |
 |  **Find_Max_Min_Numbers** | Program that determines the largest and smallest numbers among three inputs. |
 |  **Guess_the_Number_Game** | Program that runs a guessing game for a number between 0 and 5. |
