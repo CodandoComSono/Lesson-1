@@ -16,6 +16,17 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Age_Classification.py** | Program that counts how many of seven people are adults or minors. |
+|  **Arithmetic_Progression_10.py** | Program that displays the first 10 terms of an arithmetic progression. |
+|  **Countdown_Timer.py** | Program that performs a countdown from 10 to 0 and displays a final message. |
+|  **Even_Number_Sum.py** | Program that reads six numbers and returns the sum of the even ones. |
+|  **Even_Numbers_1_to_50.py** | Program that prints all even numbers from 1 to 50. |
+|  **Group_Age_Analysis.py** | Program that analyzes a group of four people by age and gender. |
+|  **Multiplication_Table.py** | Program that shows the multiplication table for any number. |
+|  **Palindrome_Checker.py** | Program that checks whether a phrase is a palindrome. |
+|  **Prime_Checker.py** | Program that checks whether a number is prime. |
+|  **Sum_Odd_Multiples_of_3.py** | Program that sums all odd multiples of 3 between 1 and 500. |
+|  **Weight_Analyzer.py** | Program that reads five weights and displays the highest and lowest values. |
 |  **Category_Classifier.py** | Classifies the user’s category based on their age. |
 |  **Home_Financing_Tool.py** | Program that simulates a home loan approval. |
 |  **IMC_Evaluator.py** | Calculates IMC and classifies the user’s health status. |
