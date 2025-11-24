@@ -16,6 +16,15 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **Arithmetic_Progression.py** | Program that displays the first ten terms of an arithmetic progression. |
+|  **Extended_AP_Progression.py** | Program that generates an arithmetic progression with expandable terms. |
+|  **Factorial_Calculator.py** | Program that calculates the factorial of a number step by step. |
+|  **Fibonacci_Sequence.py** | Program that prints the Fibonacci sequence up to N terms. |
+|  **Gender_Validator.py** | Program that validates user gender input (M/F). |
+|  **Menu_Math_Options.py** | Program that performs math operations through a men. |
+|  **Number_Guessing_Game.py** | Program that generates a number and lets the user guess it. |
+|  **Number_Stats_Calculator.py** | Program that displays the average, highest, and lowest values from user inputs. |
+|  **Number_Sum_Counter.py** | Program that reads numbers until 999 is entered and displays the count and total sum. |
 |  **Age_Classification.py** | Program that counts how many of seven people are adults or minors. |
 |  **Arithmetic_Progression_10.py** | Program that displays the first 10 terms of an arithmetic progression. |
 |  **Countdown_Timer.py** | Program that performs a countdown from 10 to 0 and displays a final message. |
