@@ -16,6 +16,12 @@ Each file represents one class or topic I’ve learned — from simple input/out
 
 | File | Description |
 |------|--------------|
+|  **ATM_Withdrawal_Simulator.py** | Program that simulates an ATM withdrawal and shows the number of bills needed. |
+|  **Multiplication_Table_Loop.py** | Program that displays the multiplication table for any number until -1 is entered. |
+|  **Number_Sum_Counter.py** | Program that reads numbers until 999 is entered and displays the count and total sum. |
+|  **Odd_Even_Game.py** | Program that lets the user play an odd-or-even game against the computer. |
+|  **People_Statistics_Collector.py** | Program that collects age and gender data and displays simple statistics. |
+|  **Shopping_Analyzer.py** | Program that reads product data and reports total cost, expensive items count, and the cheapest product. |
 |  **Arithmetic_Progression.py** | Program that displays the first ten terms of an arithmetic progression. |
 |  **Extended_AP_Progression.py** | Program that generates an arithmetic progression with expandable terms. |
 |  **Factorial_Calculator.py** | Program that calculates the factorial of a number step by step. |
