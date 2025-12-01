@@ -21,7 +21,7 @@ Each file represents one class or topic I’ve learned — from simple input/out
 |  **Number_Sum_Counter.py** | Program that reads numbers until 999 is entered and displays the count and total sum. |
 |  **Odd_Even_Game.py** | Program that lets the user play an odd-or-even game against the computer. |
 |  **People_Statistics_Collector.py** | Program that collects age and gender data and displays simple statistics. |
-|  **Shopping_Analyzer.py** | Program that reads product data and reports total cost, expensive items count, and the cheapest product. |
+|  **Shopping_Analyzer.py** | Program that analyzes products and shows total, expensive items, and the cheapest one. |
 |  **Arithmetic_Progression.py** | Program that displays the first ten terms of an arithmetic progression. |
 |  **Extended_AP_Progression.py** | Program that generates an arithmetic progression with expandable terms. |
 |  **Factorial_Calculator.py** | Program that calculates the factorial of a number step by step. |
