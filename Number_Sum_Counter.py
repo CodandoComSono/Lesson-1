@@ -1,11 +1,9 @@
-total = 0
-count = 0
+n = s = cont = 0
+while n != 999:
+    n = int(input('Digite um número (Digite 999 caso queira parar): '))
+    if n == 999:
+        break
+    s += n
+    cont += 1
 
-number = int(input("Enter a number (999 to stop): "))
-
-while number != 999:
-    total += number
-    count += 1
-    number = int(input("Enter a number (999 to stop): "))
-
-print(f"You entered {count} numbers and their total sum is {total}.")
+print(f'Foram digitados {cont} números e a soma entre eles é {s}')
